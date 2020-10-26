@@ -7,4 +7,4 @@ flask==1.0.2
 marshmallow==2.17.0
 
 # Install from gemfury
--e "C:\Users\priya\PycharmProjects\deploying-machine-learning-models\packages\regression_model\regression_model"
+regression-model==1.0.1
